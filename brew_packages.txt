@@ -1,0 +1,7 @@
+displayplacer
+gnupg
+gnutls
+go
+nvm
+python@3.10
+tfenv
