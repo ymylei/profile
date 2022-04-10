@@ -1,7 +1,6 @@
 VS Code
 VLC
 Spotify
-Rectangle
 Plex
 Google Chrome
 Docker
