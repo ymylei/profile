@@ -3,6 +3,5 @@ Spotify
 Infuse
 Google Chrome
 Docker
-Discord
 Debit & Credit
 1Password
