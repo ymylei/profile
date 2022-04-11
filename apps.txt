@@ -1,7 +1,6 @@
 VS Code
-VLC
 Spotify
-Plex
+Infuse
 Google Chrome
 Docker
 Discord
