@@ -119,7 +119,3 @@ export NVM_DIR="$HOME/.nvm"
 def getoktatoken(){
     export OKTA_API_TOKEN=$(security find-generic-password -a ${USER} -s oktatoken -w)
 }
-
-def home_monitor_hdmi() {
-    displayplacer "id:3A09C003-C615-DA50-0857-D6964E3302DB res:3840x2160 hz:60 color_depth:8 scaling:off origin:(0,0) degree:0" "id:37D8832A-2D66-02CA-B9F7-8F30A301B230 res:1680x1050 hz:60 color_depth:8 scaling:on origin:(0,2160) degree:0"
-}
