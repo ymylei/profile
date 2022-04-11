@@ -7,6 +7,7 @@ export PATH="/opt/homebrew/bin:/opt/homebrew/sbin${PATH+:$PATH}";
 export MANPATH="/opt/homebrew/share/man${MANPATH+:$MANPATH}:";
 export INFOPATH="/opt/homebrew/share/info:${INFOPATH:-}";
 export PATH=$HOME/go/bin:$PATH
+export PATH=/opt/homebrew/opt/python@3.10/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/tgoodsell/.oh-my-zsh"
