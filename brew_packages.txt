@@ -2,6 +2,6 @@ brew install --cask rectangle
 brew tap jakehilborn/jakehilborn && brew install displayplacer
 brew install gnupg
 brew install go
-nvm
-python@3.10
-tfenv
+brew install nvm
+brew install python@3.10
+brew install tfenv
